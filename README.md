@@ -6,3 +6,5 @@
 Que Coisa bacana cara. Estou completamente satisfeito com o resultado do Custo de Git e Git Hub.
 
 Aprender  isso é completamente incrível. 
+
+Eu amo Tecnologia. 
