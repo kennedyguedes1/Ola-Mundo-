@@ -2,9 +2,9 @@
  Primeiro repositório versionado do curso de Git e Git hub.
 
 
- Boa noite a todos 
+ Boa noite a todos...Eu utilizo o README para treinar as alterações no código. 
 
- Vou alterar essa linha do site. tankyou
+
 
 
 
